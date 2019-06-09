@@ -9,8 +9,8 @@ This is a project template for [Svelte](https://svelte.dev) apps. It lives at ht
 To create a new project based on this template using [degit](https://github.com/aviralyadav/svelte-starter):
 
 ```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
+git clone https://github.com/aviralyadav/svelte-starter.git
+cd svelte-starter
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
